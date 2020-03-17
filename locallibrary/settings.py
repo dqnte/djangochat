@@ -70,7 +70,7 @@ TEMPLATES = [
 ]
 
 # WSGI_APPLICATION = 'locallibrary.wsgi.application'
-ASGI_APPLICATION = "myproject.routing.application"
+ASGI_APPLICATION = "locallibrary.routing.application"
 
 
 # Database
